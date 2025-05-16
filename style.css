@@ -1,0 +1,29 @@
+*{
+    margin: 0 auto;
+    padding: 0;
+    box-sizing: border-box;
+}
+.content{
+    background-color: red;
+    height: 200px;
+}
+.btn{
+    width: 150px;
+    height: 75px;
+}
+.text{
+    color: white;
+}
+.input{
+    font-size: small;
+    font-weight: bold;
+    text-align: center;
+    width: 150px;
+    height: 75px;
+}
+.content{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    padding: 62px;
+}
